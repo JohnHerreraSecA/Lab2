@@ -1,0 +1,23 @@
+.container{
+    background-color: black;
+}
+.hey{
+    background-color: grey;
+}
+
+h1 {
+    color: red;
+            }
+h2 {
+    color: red;
+}            
+nav {
+    color: blue;
+          }
+main {
+    color: black;
+}          
+footer{
+    text-align: center;
+    color: black;
+        }
